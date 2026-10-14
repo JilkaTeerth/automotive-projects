@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/banner.svg" alt="Automotive Projects" width="100%"></p>
 
 <p align="center">
-  <img alt="progress" src="https://img.shields.io/badge/progress-0%2F10-ff5a5f?style=flat-square">
+  <img alt="progress" src="https://img.shields.io/badge/progress-0%2F10-c23434?style=flat-square">
   <img alt="license" src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square">
 </p>
 
