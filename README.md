@@ -13,18 +13,18 @@ Each folder is one small, self contained project that does one thing. They get h
 
 | # | Project | What it does | Language | Status |
 |:-:|---|---|:-:|:-:|
-| 01 | Trip fuel cost calculator | Works out what a road trip costs in fuel. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | 🔜 |
-| 02 | Car | Models vehicles with inheritance. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | ⬜ |
-| 03 | MPG to L/100km converter | Converts fuel economy units and charts them. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
-| 04 | mtcars exploration | Explores the classic mtcars dataset. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
-| 05 | EV vs petrol over the years | Charts the rise of EVs using EPA data. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
-| 06 | Car loan vs lease | Compares the total cost of buying and leasing. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
-| 07 | Parking lot simulator | Simulates cars queueing for parking spaces. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | ⬜ |
-| 08 | Used car price queries | Queries used car listings for average prices. | ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white) | ⬜ |
-| 09 | F1 lap time chart | Charts lap times from one Formula 1 race. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ⬜ |
-| 10 | Used car price predictor | Predicts a car's price with regression. | ![ML](https://img.shields.io/badge/ML-F7931E?logo=scikitlearn&logoColor=white) | ⬜ |
+| 01 | Trip fuel cost calculator | Works out what a road trip costs in fuel. | ![Python](https://img.shields.io/badge/Python-14212b?style=flat-square&logo=python&logoColor=f4efe3) | **next** |
+| 02 | Car | Models vehicles with inheritance. | ![Java](https://img.shields.io/badge/Java-14212b?style=flat-square&logo=openjdk&logoColor=f4efe3) | ⬜ |
+| 03 | MPG to L/100km converter | Converts fuel economy units and charts them. | ![Python](https://img.shields.io/badge/Python-14212b?style=flat-square&logo=python&logoColor=f4efe3) | ⬜ |
+| 04 | mtcars exploration | Explores the classic mtcars dataset. | ![Python](https://img.shields.io/badge/Python-14212b?style=flat-square&logo=python&logoColor=f4efe3) | ⬜ |
+| 05 | EV vs petrol over the years | Charts the rise of EVs using EPA data. | ![Python](https://img.shields.io/badge/Python-14212b?style=flat-square&logo=python&logoColor=f4efe3) | ⬜ |
+| 06 | Car loan vs lease | Compares the total cost of buying and leasing. | ![Python](https://img.shields.io/badge/Python-14212b?style=flat-square&logo=python&logoColor=f4efe3) | ⬜ |
+| 07 | Parking lot simulator | Simulates cars queueing for parking spaces. | ![Java](https://img.shields.io/badge/Java-14212b?style=flat-square&logo=openjdk&logoColor=f4efe3) | ⬜ |
+| 08 | Used car price queries | Queries used car listings for average prices. | ![SQL](https://img.shields.io/badge/SQL-14212b?style=flat-square&logo=sqlite&logoColor=f4efe3) | ⬜ |
+| 09 | F1 lap time chart | Charts lap times from one Formula 1 race. | ![Python](https://img.shields.io/badge/Python-14212b?style=flat-square&logo=python&logoColor=f4efe3) | ⬜ |
+| 10 | Used car price predictor | Predicts a car's price with regression. | ![ML](https://img.shields.io/badge/ML-14212b?style=flat-square&logo=scikitlearn&logoColor=f4efe3) | ⬜ |
 
-✅ done &nbsp; 🔜 up next &nbsp; ⬜ planned
+✅ done &nbsp;·&nbsp; **next** up next &nbsp;·&nbsp; ⬜ planned
 
 ## Running a project
 
